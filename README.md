@@ -5,7 +5,7 @@ This project focuses on the implementation of Digital Signal Processing (DSP) te
 
 The following were implemented using python.
 
-Note: These techniques were implemented without calling the built-in functions as this project focuses on the understanding of the math behind these techniques. User-defined functions were created using basic libraries such as numpy and scipy. Matplotlib was used for the visualization
+Note: These techniques were implemented without calling the built-in functions as this project focuses on the understanding of the math behind these techniques. User-defined functions were created using basic libraries such as numpy and scipy. Matplotlib was used for the visualization.
 
 1. Generation of a signal.
 
